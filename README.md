@@ -126,20 +126,35 @@ Open Source
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Likitha3126&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likitha3126&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
----
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Likitha3126&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likitha3126&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
+</div>
+
 
 # 🐍 Contribution Graph
 
+
+<h2 align="center">📈 Contribution Activity</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Likitha3126&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
----
 
 # 🌐 Connect With Me
 
