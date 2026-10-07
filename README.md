@@ -1,3 +1,4 @@
+```markdown
 # 👋 Hi, I'm Likitha
 
 ### AI/ML Enthusiast • Python Developer • Open Source Learner • Problem Solver
@@ -26,6 +27,7 @@ Currently, I'm focused on strengthening my fundamentals, contributing to open so
 ## 🧰 Tech Stack
 
 ### 💻 Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,6 +35,7 @@ Currently, I'm focused on strengthening my fundamentals, contributing to open so
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🤖 AI / ML
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=github&logoColor=white)
@@ -45,12 +48,14 @@ Currently, I'm focused on strengthening my fundamentals, contributing to open so
 - AI-powered automation
 
 ### 🌐 Development
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🛠️ Tools & Technologies
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -58,7 +63,7 @@ Currently, I'm focused on strengthening my fundamentals, contributing to open so
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
 ### 📄 Document Q&A — RAG System
 
@@ -66,7 +71,7 @@ An AI-powered document question-answering system that allows users to upload doc
 
 **Tech:** Python • FastAPI • RAG • Qwen • ChromaDB • LangChain
 
-🔗 [View Project](https://github.com/Likitha3126/AI-Document-QA-RAG.git)
+🔗 [View Project](https://github.com/Likitha3126/AI-Document-QA-RAG)
 
 ---
 
@@ -76,18 +81,19 @@ A browser extension designed to identify and filter potentially AI-generated sho
 
 **Tech:** JavaScript • Chrome Extensions • Manifest V3 • Heuristic AI Detection
 
-Features include:
+**Features:**
 
 - AI-content likelihood scoring
 - Configurable filtering sensitivity
 - Content inspection
 - Metadata analysis
 - Automated short filtering
-  🔗 [View Project](https://github.com/Likitha3126/SlopFilter.git)
+
+🔗 [View Project](https://github.com/Likitha3126/SlopFilter)
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 ```text
 AI / ML
@@ -112,44 +118,37 @@ Open Source
 
 ---
 
-# 🎯 2026–27 Goals
+## 🎯 2026–27 Goals
 
 - 🚀 Become strong in **DSA & problem solving**
 - 🤖 Build production-oriented **AI/ML projects**
 - 🌐 Make meaningful **open-source contributions**
 - 🌱 Prepare for **GSoC 2027**
+- 📝 Explore **AI/ML research**
 - 💻 Gain industry experience through internships and projects
 - 🏆 Participate in hackathons and technical challenges
 - 📈 Continuously improve my GitHub and technical portfolio
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Activity
 
-
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Likitha3126&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="GitHub Stats"
+    height="180"
+    alt="Likitha's GitHub Statistics"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likitha3126&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Top Languages"
+    height="180"
+    alt="Likitha's Most Used Languages"
   />
-</div>
+</p>
 
+---
 
-
-# 🐍 Contribution Graph
-
-
-
-<h2 align="center">🐍 My Contribution Journey</h2>
+## 🐍 Contribution Journey
 
 <p align="center">
   <picture>
@@ -162,31 +161,22 @@ Open Source
       srcset="https://raw.githubusercontent.com/Likitha3126/Likitha3126/output/github-snake.svg"
     />
     <img
-      alt="Likitha's GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/Likitha3126/Likitha3126/output/github-snake.svg"
+      alt="Likitha's GitHub Contribution Snake"
     />
   </picture>
 </p>
 
-#📈 Contribution Activity
+---
 
-<h2 align="center">📈 My Contribution Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Likitha3126&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
-
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Likitha3126">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://github.com/Likitha3126">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -204,5 +194,4 @@ Every repository here represents a step in that journey.
 <p align="center">
   <b>Thanks for visiting my profile! 🚀</b>
 </p>
-
-
+```
