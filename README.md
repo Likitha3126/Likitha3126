@@ -1,5 +1,4 @@
-```markdown
-# 👋 Hi, I'm Likitha
+# 👋 Hi, I'm Likitha Udayagiri
 
 ### AI/ML Enthusiast • Python Developer • Open Source Learner • Problem Solver
 
@@ -95,26 +94,27 @@ A browser extension designed to identify and filter potentially AI-generated sho
 
 ## 📚 Currently Learning
 
-```text
-AI / ML
- ├── Machine Learning
- ├── Deep Learning
- ├── Generative AI
- ├── RAG & LLM Applications
- └── Computer Vision
+**AI / ML**
 
-Computer Science
- ├── Data Structures & Algorithms
- ├── Operating Systems
- ├── Computer Networks
- ├── Database Systems
- └── System Design
+- Machine Learning
+- Deep Learning
+- Generative AI
+- RAG & LLM Applications
+- Computer Vision
 
-Open Source
- ├── Git & GitHub
- ├── Open Source Contributions
- └── GSoC Preparation
-```
+**Computer Science**
+
+- Data Structures & Algorithms
+- Operating Systems
+- Computer Networks
+- Database Systems
+- System Design
+
+**Open Source**
+
+- Git & GitHub
+- Open Source Contributions
+- GSoC Preparation
 
 ---
 
@@ -134,37 +134,8 @@ Open Source
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Likitha3126&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Likitha's GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likitha3126&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Likitha's Most Used Languages"
-  />
-</p>
-
----
-
-## 🐍 Contribution Journey
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Likitha3126/Likitha3126/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Likitha3126/Likitha3126/output/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Likitha3126/Likitha3126/output/github-snake.svg"
-      alt="Likitha's GitHub Contribution Snake"
-    />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Likitha3126&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Likitha's GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likitha3126&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Likitha's Most Used Languages" />
 </p>
 
 ---
@@ -172,11 +143,9 @@ Open Source
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/Likitha3126">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/Likitha3126">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -194,4 +163,3 @@ Every repository here represents a step in that journey.
 <p align="center">
   <b>Thanks for visiting my profile! 🚀</b>
 </p>
-```
