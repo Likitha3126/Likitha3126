@@ -127,6 +127,7 @@ Open Source
 # 📊 GitHub Stats
 
 
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
@@ -143,10 +144,33 @@ Open Source
 </div>
 
 
+
 # 🐍 Contribution Graph
 
 
-<h2 align="center">📈 Contribution Activity</h2>
+
+<h2 align="center">🐍 My Contribution Journey</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Likitha3126/Likitha3126/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Likitha3126/Likitha3126/output/github-snake.svg"
+    />
+    <img
+      alt="Likitha's GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Likitha3126/Likitha3126/output/github-snake.svg"
+    />
+  </picture>
+</p>
+
+#📈 Contribution Activity
+
+<h2 align="center">📈 My Contribution Activity</h2>
 
 <p align="center">
   <img
@@ -154,6 +178,7 @@ Open Source
     alt="GitHub Activity Graph"
   />
 </p>
+
 
 
 # 🌐 Connect With Me
