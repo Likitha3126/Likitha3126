@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Likitha Udayagiri
+# 👋 Hi, I'm Likitha 
 
 ### AI/ML Enthusiast • Python Developer • Open Source Learner • Problem Solver
 
@@ -129,13 +129,24 @@ A browser extension designed to identify and filter potentially AI-generated sho
 - 🏆 Participate in hackathons and technical challenges
 - 📈 Continuously improve my GitHub and technical portfolio
 
----
 
-## 📊 GitHub Activity
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Likitha3126&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Likitha's GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likitha3126&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Likitha's Most Used Languages" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Likitha3126/Likitha3126/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Likitha3126/Likitha3126/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Likitha3126/Likitha3126/output/github-snake.svg"
+      alt="Likitha's GitHub Contribution Snake"
+    />
+  </picture>
 </p>
 
 ---
